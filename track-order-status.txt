@@ -1,2 +1,3 @@
 Code class Order và OrderStatusHistory 
 Tao bang Order và OrderStatusHistory trong CSDL
+Thuc hien viet code xu ly theo doi trang thai
