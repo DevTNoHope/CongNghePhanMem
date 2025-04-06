@@ -1,1 +1,2 @@
 Code class review
+Tạo bảng reviews trong CSDL
