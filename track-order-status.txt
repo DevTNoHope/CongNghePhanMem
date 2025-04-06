@@ -2,3 +2,4 @@ Code class Order và OrderStatusHistory
 Tao bang Order và OrderStatusHistory trong CSDL
 Thuc hien viet code xu ly theo doi trang thai
 Thuc hien viet code giao dien theo doi don hang
+Thuc hien lien ket giao dien voi xu ly
