@@ -1,1 +1,2 @@
 Code class Product
+Tạo bảng Products. 
