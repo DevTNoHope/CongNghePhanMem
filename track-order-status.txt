@@ -1,1 +1,2 @@
-Tao class Order và OrderStatusHistory 
+Code class Order và OrderStatusHistory 
+Tao bang Order và OrderStatusHistory trong CSDL
