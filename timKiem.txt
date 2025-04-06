@@ -1,0 +1,6 @@
+Code class Product
+Tạo bảng Products. 
+Viết code tìm kiếm. 
+Thiết kế giao diện tìm kiếm. 
+Liên kết code xử lý với giao diện. 
+Viết unit test.
