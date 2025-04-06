@@ -3,3 +3,4 @@ Tạo bảng reviews trong CSDL
 Viết xử lý đánh giá
 Viết code cho giao diện
 Thực hiện liên kết giữa giao diện và xử lý
+Viết unit test
