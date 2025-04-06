@@ -1,1 +1,2 @@
 Code class NotificationPreference và Promotion 
+Tao bang Promotion và NotificationPreference trong CSDL
