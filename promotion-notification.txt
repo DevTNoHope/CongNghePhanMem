@@ -1,0 +1,6 @@
+Code class NotificationPreference và Promotion 
+Tao bang Promotion và NotificationPreference trong CSDL
+Thuc hien viet code xu ly kiem tra giam gia va gui thong bao
+Thuc hien viet code giao dien
+Thuc hien lien ket giao dien voi xu ly
+Viet unit test
