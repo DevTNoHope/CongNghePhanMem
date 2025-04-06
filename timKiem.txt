@@ -1,2 +1,3 @@
 Code class Product
 Tạo bảng Products. 
+Viết code tìm kiếm. 
