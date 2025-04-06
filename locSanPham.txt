@@ -1,1 +1,2 @@
 Cập nhật class Product. 
+Cập nhật bảng Products
