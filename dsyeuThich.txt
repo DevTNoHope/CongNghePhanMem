@@ -1,2 +1,3 @@
 Code class product
+Tạo bảng products trong CSDL
 
