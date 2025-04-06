@@ -1,3 +1,4 @@
 Code class review
 Tạo bảng reviews trong CSDL
 Viết xử lý đánh giá
+Viết code cho giao diện
