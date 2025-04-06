@@ -1,2 +1,3 @@
 Code class Category
 Tạo bảng Categories trong CSDL.
+Viết code lấy danh sách danh mục.
