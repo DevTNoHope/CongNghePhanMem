@@ -1,2 +1,4 @@
 Code class Order và OrderDetail
 Chạy code Entity Framework để tạo bảng Order và OrderDetail
+Viết code xử lý lịch sử mua hàng
+
