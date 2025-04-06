@@ -1,2 +1,3 @@
 Cập nhật class Product. 
 Cập nhật bảng Products
+Viết code lọc. 
