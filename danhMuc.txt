@@ -1,0 +1,6 @@
+Code class Category
+Tạo bảng Categories trong CSDL.
+Viết code lấy danh sách danh mục.
+Thực hiện viết code cho giao diện
+Thực hiện liên kết giữa giao diện và xử lý
+Viết unit test
