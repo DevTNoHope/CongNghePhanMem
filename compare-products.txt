@@ -1,0 +1,6 @@
+Code class SanPham gom cac thuoc tinh
+Tao bang SanPham trong CSDL
+Thuc hien viet code xu ly so sanh san pham
+Thuc hien viet code cho giao dien
+Thuc hien lien ket giao dien voi xu ly
+Viet unit test
