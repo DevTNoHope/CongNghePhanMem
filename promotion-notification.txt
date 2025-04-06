@@ -1,2 +1,3 @@
 Code class NotificationPreference và Promotion 
 Tao bang Promotion và NotificationPreference trong CSDL
+Thuc hien viet code xu ly kiem gia giam gia va gui thong bao
