@@ -2,3 +2,4 @@ Code class product
 Tạo bảng products trong CSDL
 Viết code lấy danh sách sản phẩm yêu thích
 Thực hiện viết code cho giao diện
+Thực hiện liên kết giữa giao diện và xử lý
