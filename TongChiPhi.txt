@@ -1,4 +1,5 @@
 1. Cập nhật model và thực hiện migration cho CSDL.
 2. Viết hàm tính tổng chi phí đơn hàng.
 3. Thiết kế giao diện hiển thị tổng chi phí trên giỏ hàng/thanh toán.
+4. Kết nối giao diện với xử lý backend tính tổng chi phí.
 
