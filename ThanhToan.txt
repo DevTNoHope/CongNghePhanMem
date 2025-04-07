@@ -1,1 +1,2 @@
 1. Cập nhật model dữ liệu và thực hiện migration tạo bảng.
+2. Tích hợp API thanh toán theo phương thức người dùng chọn.
