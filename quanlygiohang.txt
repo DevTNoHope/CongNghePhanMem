@@ -1,2 +1,3 @@
 •	Viết code xử lý tăng/giảm/xóa sản phẩm.
 •	Viết code giao diện quản lý giỏ hàng.
+•	Liên kết giao diện và xử lý.
