@@ -1,2 +1,4 @@
 1. Cập nhật model dữ liệu và thực hiện migration tạo bảng.
 2. Tích hợp API thanh toán theo phương thức người dùng chọn.
+3. Thiết kế giao diện chọn phương thức và nhập thông tin thanh toán.
+
