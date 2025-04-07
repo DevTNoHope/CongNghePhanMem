@@ -1,2 +1,3 @@
 •	Code class Cart.
 •	Chạy Entity Framework để tạo bảng Cart.
+•	Viết code xử lý thêm sản phẩm.
