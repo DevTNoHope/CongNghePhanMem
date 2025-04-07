@@ -1,3 +1,4 @@
 1. Tạo model Review, cập nhật model Product, thực hiện migration.
 2. Viết hàm xử lý và giao diện hiển thị đánh giá sản phẩm.
+3. Kết nối giao diện với API backend để lấy và hiển thị đánh giá.
 
