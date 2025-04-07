@@ -2,3 +2,4 @@
 •	Chạy Entity Framework để tạo bảng Product.
 •	Viết code xử lý lấy chi tiết sản phẩm.
 •	Viết code giao diện chi tiết sản phẩm.
+•	Liên kết giao diện và xử lý.
