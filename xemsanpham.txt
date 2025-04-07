@@ -1,1 +1,2 @@
 •	Code class Product.
+•	Chạy Entity Framework để tạo bảng Product.
